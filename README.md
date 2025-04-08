@@ -65,16 +65,8 @@
 ## 📄 **Connect with Me:**
 - GitHub: https://github.com/khalidasdsju
 - LinkedIn: www.linkedin.com/in/khalidsohel1995
-- Email: Khalid.asds.ju@gmail.com 
+- Email: Khalid.asds.ju@gmail.com
+- whatsapp: +8801521205592
 
-"""
 
-# Define the path for the README file
-readme_path = "README.md"
-
-# Write the content to the README file
-with open(readme_path, "w") as file:
-    file.write(readme_content)
-
-print("README.md has been created successfully!")
 
