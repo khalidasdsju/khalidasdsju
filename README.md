@@ -1,8 +1,3 @@
-# Importing necessary libraries
-import os
-
-# Define the content of the README
-readme_content = """
 # 👋 Hi, I'm **MIR KHALID HASSAN**
 
 ## 👀 I’m interested in **DATA SCIENCE & MACHINE LEARNING**  
@@ -68,9 +63,9 @@ readme_content = """
 ---
 
 ## 📄 **Connect with Me:**
-- GitHub: [@yourgithub](https://github.com/yourgithub)
-- LinkedIn: [@yourlinkedin](https://www.linkedin.com/in/yourlinkedin)
-- Email: [your-email@example.com](mailto:your-email@example.com)
+- GitHub: https://github.com/khalidasdsju
+- LinkedIn: www.linkedin.com/in/khalidsohel1995
+- Email: Khalid.asds.ju@gmail.com 
 
 """
 
